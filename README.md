@@ -7,7 +7,7 @@
 ```
 1️⃣ 주제 : RateBeer Review 데이터를 사용한 데이터 분석
 2️⃣ 데이터셋 : RateBeer crawling data (자체 수집)
-3️⃣ 컬럼 : User_name	User_nation	Rating	Aroma	Appearance	Flavor	Mouthfeel	Overall	Review	Beer_name
+3️⃣ 컬럼 : User_name,	User_nation,	Rating,	Aroma,	Appearance,	Flavor,	Mouthfeel,	Overall,	Review,	Beer_name
 4️⃣ 모델 : Bert
 5️⃣ 간단 설명 : 맥주 리뷰 데이터에서 키워드 간 연관성을 확인하고 감정 분석을 실시하여 실제 Rating과 차이가 있는지 알아본다.
 ```
