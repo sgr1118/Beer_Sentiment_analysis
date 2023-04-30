@@ -1,4 +1,4 @@
-# Project Crawling and Data Analyze
+# Project : 맥주 리뷰 감정 분석
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -8,8 +8,8 @@
 1️⃣ 주제 : RateBeer Review 데이터를 사용한 데이터 분석
 2️⃣ 데이터셋 : RateBeer crawling data (자체 수집)
 3️⃣ 컬럼 : User_name,	User_nation,	Rating,	Aroma,	Appearance,	Flavor,	Mouthfeel,	Overall,	Review,	Beer_name
-4️⃣ 모델 : Bert
-5️⃣ 간단 설명 : 맥주 리뷰 데이터를 사용하여 유저간 감정 분석과 그 결과를 토대로 맥주 추천시스템 제공
+4️⃣ 모델 : Bert, T5
+5️⃣ 간단 설명 : 맥주 리뷰 데이터를 사용하여 의미 연결망 분석과 감정 분석 결과 제공
 ```
 
 ## 🏅 프로젝트 목표
