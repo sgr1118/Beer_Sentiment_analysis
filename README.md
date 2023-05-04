@@ -48,6 +48,7 @@
 #### [2. T5_Paper](https://arxiv.org/pdf/1910.10683v3.pdf)
 #### [3. Data_Labeling_VADER)](https://medium.com/analytics-vidhya/sentiment-analysis-with-vader-label-the-unlabeled-data-8dd785225166)
 #### [4. Data_Labeling_GPT)](https://towardsdatascience.com/can-chatgpt-compete-with-domain-specific-sentiment-analysis-machine-learning-models-cdcd9937b460)
+#### [4. Data_Labeling_Alpaca)](https://www.youtube.com/watch?v=JzBR8oieyy8&t=117s)
 ---
 ## 📑 프로젝트 결과물 모음
 |No|내용|깃허브|관리 팀원|
