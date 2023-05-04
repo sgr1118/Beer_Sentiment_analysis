@@ -2,6 +2,7 @@
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
 ## 💡프로젝트 소개
 ```
@@ -29,7 +30,6 @@
 ### 3. 데이터 전처리
 
 ### 4. 감정 분석
-
 ---
  
 ---
@@ -45,21 +45,21 @@
 ---
 ## 🦄 프로젝트를 위한 자료
 #### [1. Hugging_Face_T5_Guide](https://huggingface.co/docs/transformers/model_doc/t5)
-#### [2. T5_Paper]()
-#### [3. Data_Labeling_VADER)]()
-#### [4. Data_Labeling_GPT)]()
+#### [2. T5_Paper](https://arxiv.org/pdf/1910.10683v3.pdf)
+#### [3. Data_Labeling_VADER)](https://medium.com/analytics-vidhya/sentiment-analysis-with-vader-label-the-unlabeled-data-8dd785225166)
+#### [4. Data_Labeling_GPT)](https://towardsdatascience.com/can-chatgpt-compete-with-domain-specific-sentiment-analysis-machine-learning-models-cdcd9937b460)
 ---
-## 📑 프로젝트 진행 과정
-|No|내용|깃허브||
-
-
-
+## 📑 프로젝트 결과물 모음
+|No|내용|깃허브|관리 팀원|
+|-|-|-|-|
+|1|데이터 수집|[📂]()|손기락|
+|1|데이터 라벨링|[📂]()|손기락, 하승범|
+|1|모델링|[📂]()|손기락, 하승범|
 ---
 ## 🏆 프로젝트 결과(성능)
-|Model|||
+|Model|Accuracy|F1-Score|
 |---|---|---|
-||||
-||||
+|T5|||
 
 ---
 ## 🏆 프로젝트 결과
