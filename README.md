@@ -9,7 +9,7 @@
 1️⃣ 주제 : RateBeer Review 데이터를 사용한 데이터 분석
 2️⃣ 데이터셋 : RateBeer crawling data (자체 수집)
 3️⃣ 컬럼 : Rating, Review, Beer_name 
-4️⃣ 모델 : T5
+4️⃣ 모델 : SimpleT5
 5️⃣ 간단 설명 : 맥주 리뷰 데이터를 사용하여 의미 연결망 분석과 감정 분석 결과 제공
 ```
 
