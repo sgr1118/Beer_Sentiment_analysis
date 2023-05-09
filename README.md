@@ -32,7 +32,6 @@
 
 ### 2. 시각화 및 EDA
 ##### Rating 분포와 Review Text의 특이 사항 확인
-- 
 
 ### 3. 데이터 전처리
 - '...'만 작성된 Review 삭제
@@ -54,13 +53,10 @@
 |Negative|19306|55934|40520|
 |Neutral|8768|19094|3400|
 
-- 가장 긍정과 부정을 명확하게 나눠 준 것은 GPT API and MultinomialNB이다. 
-
 ### 4. 감정 분석
 - Simple T5 (Pytorch Lightning)
 ---
  
----
 ## 🗓️ 프로젝트 진행 일정
 
 |내용|M1|M2|M3|M4|M5|M6|M7|
