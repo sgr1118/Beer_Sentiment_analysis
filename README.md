@@ -40,9 +40,9 @@
 <Sample Data 적용한 Labeling - self_labeling과 비교>
 |라이브러리|self_labeling|VADER|Alpaca|GPT API and MultinomialNB|
 |-|-|-|-|-|
-|Positive|474|743|346||
-|Negative|327|181|533||
-|Neutral|198|76|120||
+|Positive|474|743|346|493|
+|Negative|327|181|533|330|
+|Neutral|198|76|120|177|
 
 <전체 Data 적용한 Labeling>
 |라이브러리|VADER|Alpaca|GPT API and MultinomialNB|
