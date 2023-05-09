@@ -87,7 +87,7 @@
 |Model|Accuracy|F1-Score|
 |---|---|---|
 |T5(Alpaca_labeling)|0.757|0.757|
-|T5(GPT API and MultinomialNB)|||
+|T5(GPT API and MultinomialNB)|0.908|0.908|
 
 ---
 ## 🏆 프로젝트 결과
