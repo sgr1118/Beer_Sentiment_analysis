@@ -5,7 +5,7 @@
 
 ### 결과 - 1 : 라벨링 분포
 
-|분류|Self_labeling|VADER|Alpaca|GPT API and MultinomialNB|
+|분류|Self_labeling|VADER|Alpaca|GPT API|
 |-|-|-|-|-|
 |Positive|474|743|346|493|
 |Negative|327|181|533|330|
@@ -13,7 +13,7 @@
 
 - VADER : 긍정으로 분포가 쏠리는 형태
 - Alpack : 중립이 가장 적고 부정 라벨링이 더 많은 형태
-- GPT API and MultinomialNB : 긍정 라벨링이 부정 라벨링보다 더 많고 중립은 Alpaca보다 높은 형태
+- GPT API : 긍정 라벨링이 부정 라벨링보다 더 많고 중립은 Alpaca보다 높은 형태
 
 ### 결과 - 2 : self_labeling과 비교하여 일치 여부
 
