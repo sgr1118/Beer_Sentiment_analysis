@@ -40,7 +40,7 @@
 - VADER, Alpaca, GPT API and MultinomialNB을 사용하여 Labeling 수행하고 self_labeling과 비교
 
 <Sample Data 적용한 Labeling - self_labeling과 비교>
-|라이브러리|self_labeling|VADER|Alpaca|GPT API and MultinomialNB|
+|라이브러리|self_labeling|VADER|Alpaca|GPT API|
 |-|-|-|-|-|
 |Positive|474|743|346|493|
 |Negative|327|181|533|330|
