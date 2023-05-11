@@ -55,6 +55,7 @@
 
 ### 4. 감정 분석
 - Simple T5 (Pytorch Lightning)
+- Pytoch Multi GPU 방식을 사용하여 속도 및 개선된 Mt5, Byt5 사용
 ---
  
 ## 🗓️ 프로젝트 진행 일정
