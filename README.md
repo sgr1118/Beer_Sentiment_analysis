@@ -37,6 +37,7 @@
 - '...'만 작성된 Review 삭제
 - english로 작성되지 않은 data 삭제
 - 여러 번의 공백을 한번으로 바꾸기
+- 불용어 
 - VADER, Alpaca, GPT API and MultinomialNB을 사용하여 Labeling 수행하고 self_labeling과 비교
 
 <Sample Data 적용한 Labeling - self_labeling과 비교>
