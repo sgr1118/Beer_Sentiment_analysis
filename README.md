@@ -4,7 +4,7 @@
 - 해당 프로젝트는 (주)모두의연구소로부터 지원을 받았음을 알려드립니다.
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://sooftware.io/static/458c786f3433bdba9c9acd81597dd025/ce0ab/pl.png"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
 ## 💡프로젝트 소개
 ```
