@@ -98,6 +98,7 @@
 |ByT5(GPT API and MultinomialNB)|||||
 |T5(GPT API and MultinomialNB) - RI|0.903|0.748|0.749|0.747|
 |T5(GPT API and MultinomialNB) - RS|0.915|0.767|0.817|0.740|
+|T5(GPT API and MultinomialNB) - RD|0.866|0.711|0.772|0.682|
 
 ---
 ## 🏆 프로젝트 결과 (차후 웹 구현 예정 )
