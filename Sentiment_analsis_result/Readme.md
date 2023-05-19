@@ -5,7 +5,7 @@
 |T5(GPT API and MultinomialNB)|0.908|0.747|0.807|0.723|
 
 ## 개선 사항을 적용한 2차 분석 결과
-|Model|Accuracy|F1-Score|
+|Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
 |---|---|---|---|---|
 |T5(Alpaca_labeling)|||||
 |T5(GPT API and MultinomialNB)|||||
