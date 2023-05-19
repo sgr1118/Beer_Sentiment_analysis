@@ -61,6 +61,7 @@
 ### 5. 개선 사항
 - [Data Augmentation 기법 적용](https://maelfabien.github.io/machinelearning/NLP_8/#when-should-we-use-data-augmentation)
 - SR : 동의어 교체, RD : 무작위 삭제, RS : 랜덤 스왑, RI : 무작위 삽입
+- 동의어 교체 방식이 가장 높은 성능을 보여주었다.
 ---
  
 ## 🗓️ 프로젝트 진행 일정
