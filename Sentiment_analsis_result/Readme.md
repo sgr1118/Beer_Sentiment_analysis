@@ -7,5 +7,5 @@
 ## 개선 사항을 적용한 2차 분석 결과
 |Model|Accuracy|F1-Score|
 |---|---|---|---|---|
-|T5(Alpaca_labeling)||||||
-|T5(GPT API and MultinomialNB)||||||
+|T5(Alpaca_labeling)|||||
+|T5(GPT API and MultinomialNB)|||||
