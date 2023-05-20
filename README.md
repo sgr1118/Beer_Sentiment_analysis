@@ -12,7 +12,7 @@
 2️⃣ 데이터셋 : RateBeer crawling data (자체 수집)
 3️⃣ 컬럼 : Rating, Review, Beer_name 
 4️⃣ 모델 : SimpleT5(T5)
-5️⃣ 간단 설명 : 맥주 리뷰 데이터를 사용하여 의미 연결망 분석과 감정 분석 결과 제공
+5️⃣ 간단 설명 : 맥주 리뷰 데이터를 사용하여 감정 분석 결과 제공
 ```
 
 ## 🏅 프로젝트 목표
@@ -102,7 +102,7 @@
 |T5(GPT API and MultinomialNB) - RD(무작위 삭제)|0.866|0.711|0.772|0.682|
 
 ---
-## 🏆 프로젝트 결과
+## 📑 최종 학습 결과 기록
 
 ### Binary Class 분류 결과 
 |Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
