@@ -20,8 +20,8 @@
 #### 2. 데이터 시각화 및 EDA (완료) 
 #### 3. 데이터 라벨링 (완료)
 #### 4. 데이터 전처리 (완료)
-#### 5. 감정 분석 (진행중)
-#### 6. 개선 사항 적용 (진행중)
+#### 5. 감정 분석 (완료)
+#### 6. 개선 사항 적용 ()
 
 ---
 ## 전체 프로세스
@@ -59,7 +59,7 @@
 
 ### 5. 개선 사항
 - [Data Augmentation 기법 적용](https://maelfabien.github.io/machinelearning/NLP_8/#when-should-we-use-data-augmentation)
-- SR : 동의어 교체, RD : 무작위 삭제, RS : 랜덤 스왑, RI : 무작위 삽입
+- SR : 동의어 교체, RD : 무작위 삭제, RS : 무작위 교체, RI : 무작위 삽입
 - 동의어 교체 방식이 가장 높은 성능을 보여주었다.
 ---
  
@@ -91,17 +91,25 @@
 |3|모델링|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Sentiment_analsis_result)|손기락, 하승범|
 |4|결과(작성 예정중)|[📂]()|손기락|
 ---
-## 🏆 프로젝트 결과(현재 집계중)
+## 📑 학습 결과 기록
 |Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
 |---|---|---|---|---|
 |T5(Alpaca_labeling)|0.757|0.710|0.733|0.698|
 |T5(GPT API and MultinomialNB)|0.908|0.747|0.807|0.723|
-|ByT5(GPT API and MultinomialNB)|||||
 |T5(GPT API and MultinomialNB) - RI(무작위 삽입)|0.904|0.748|0.749|0.747|
-|T5(GPT API and MultinomialNB) - RS(랜덤 스왑)|0.914|0.817|0.740|0.767|
-|T5(GPT API and MultinomialNB) - SR(동의어교체)|0.915|0.767|0.817|0.740|
+|T5(GPT API and MultinomialNB) - RS(무작위 교체)|0.914|0.817|0.740|0.767|
+|T5(GPT API and MultinomialNB) - SR(동의어 교체)|0.915|0.767|0.817|0.740|
 |T5(GPT API and MultinomialNB) - RD(무작위 삭제)|0.866|0.711|0.772|0.682|
 
 ---
-## 🏆 프로젝트 결과 (차후 웹 구현 예정 )
+## 🏆 프로젝트 결과
 
+### Binary Class 분류 결과 
+|Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
+|---|---|---|---|---|
+|T5(GPT API and MultinomialNB) - SR(동의어 교체)|0.915|0.767|0.817|0.740|
+
+### Multi Class 분류 결과 
+|Model|Accuracy|F1-Score(wigthed)|Precision(wigthed)|Recall(wigthed)|
+|---|---|---|---|---|
+|T5(Alpaca_labeling) - SR, RD|0.946|0.946|0.946|0.946|
