@@ -107,9 +107,9 @@
 ### Binary Class 분류 결과 
 |Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
 |---|---|---|---|---|
-|T5(GPT API and MultinomialNB) - SR(동의어 교체)|0.915|0.767|0.817|0.740|
+|T5(GPT API and MultinomialNB) - SR(동의어 교체)|0.946|0.946|0.946|0.946|
 
 ### Multi Class 분류 결과 
 |Model|Accuracy|F1-Score(wigthed)|Precision(wigthed)|Recall(wigthed)|
 |---|---|---|---|---|
-|T5(Alpaca_labeling) - SR, RD|0.946|0.946|0.946|0.946|
+|T5(Alpaca_labeling) - SR, RD|0.915|0.767|0.817|0.740|
