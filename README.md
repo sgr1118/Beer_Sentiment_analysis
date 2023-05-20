@@ -90,7 +90,7 @@
 |1|데이터 수집|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Ratebeer_Crawling)|손기락|
 |2|데이터 라벨링|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Data_labeling_test)|손기락, 하승범|
 |3|모델링|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Sentiment_analsis_result)|손기락, 하승범|
-|4|결과(작성 예정중)|[📂]()|손기락, 하승범|
+|4|결과(작성 예정중)|[📂]()|손기락|
 ---
 ## 🏆 프로젝트 결과(현재 집계중)
 |Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
