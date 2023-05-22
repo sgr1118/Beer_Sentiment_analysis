@@ -8,7 +8,6 @@
 
 ## 감정 분석 결과 코드 예시
 ```c
-//```
 import torch
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch.nn.functional as F
