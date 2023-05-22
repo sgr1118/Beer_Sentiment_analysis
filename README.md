@@ -6,6 +6,15 @@
 
 <img src="https://img.shields.io/badge/Python-3.8-blue"><img src="https://img.shields.io/badge/Pytorc%20Lhlightning-1.5.10-blue"><img src="https://img.shields.io/badge/Transformers-4.16.2-blue"><img src="https://img.shields.io/badge/-Colab-yellow)">
 
+## 감정 분석 결과 코드 예시
+```c
+//```뒤에 자신이 원하는 언어 (생략 가능)
+#include <stdio.h>
+int main(void) {
+  printf("Hello World!");
+}
+```
+
 ## 💡프로젝트 소개
 ```
 1️⃣ 주제 : RateBeer Review 데이터를 사용한 데이터 분석
