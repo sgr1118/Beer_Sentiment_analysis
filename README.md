@@ -3,7 +3,6 @@
 ## 프로젝트 후원 : (주)모두의 연구소
 - 해당 프로젝트는 (주)모두의연구소로부터 지원을 받았음을 알려드립니다.
 
-
 <img src="https://img.shields.io/badge/Python-3.8-blue"><img src="https://img.shields.io/badge/Pytorc%20Lhlightning-1.5.10-blue"><img src="https://img.shields.io/badge/Transformers-4.16.2-blue"><img src="https://img.shields.io/badge/-Colab-yellow)">
 
 ## 감정 분석 결과 코드 예시
@@ -58,6 +57,7 @@ for sentence in sentences:
 3️⃣ 컬럼 : Rating, Review, Beer_name 
 4️⃣ 모델 : SimpleT5(T5)
 5️⃣ 간단 설명 : 맥주 리뷰 데이터를 사용하여 감정 분석 결과 제공
+6️⃣ 기대 효과 : 상품에 대한 감정 분석을 기반으로 제품 기획 및 마케팅 활용에 근거로 사용
 ```
 
 ## 🏅 프로젝트 목표
@@ -160,7 +160,7 @@ for sentence in sentences:
 |T5(Alpaca_labeling) - SR, RD|0.915|0.767|0.817|0.740|
 
 ---
-## 📑 프로젝트 개선 사항
+## 📑 프로젝트 개선 요구 사항
 
 ### 1. 맥주의 종류에 따른 감정 분석 기준 세부화
 - 예를 들어 라거라는 맥주 종류 중 헬레스라는 것이 있다. 헬레스는 기본적으로 매우 목넘김이 너무 편해 'watery'하다고 할 수 있다. 
