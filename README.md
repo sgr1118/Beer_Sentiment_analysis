@@ -127,6 +127,7 @@ for sentence in sentences:
 #### [6. Data_Labeling_Alpaca](https://www.youtube.com/watch?v=JzBR8oieyy8&t=117s)
 #### [7. The Most Common Evaluation Metrics In NLP](https://medium.com/towards-data-science/the-most-common-evaluation-metrics-in-nlp-ced6a763ac8b)
 #### [8. Pytorch Multi GPU](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+#### [9. [Data Augmentation 기법](https://maelfabien.github.io/machinelearning/NLP_8/#when-should-we-use-data-augmentation)
 ---
 ## 📑 프로젝트 결과물 모음
 |No|내용|깃허브|관리 팀원|
@@ -134,7 +135,7 @@ for sentence in sentences:
 |1|데이터 수집|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Ratebeer_Crawling)|손기락|
 |2|데이터 라벨링|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Data_labeling_test)|손기락, 하승범|
 |3|모델링|[📂](https://github.com/sgr1118/Beer_Sentiment_anlysis/tree/main/Sentiment_analsis_result)|손기락, 하승범|
-|4|결과()|[📂](https://github.com/sgr1118/Beer_Sentiment_analysis/tree/main/Sentiment_prediction)|손기락|
+|4|결과|[📂](https://github.com/sgr1118/Beer_Sentiment_analysis/tree/main/Sentiment_prediction)|손기락|
 ---
 ## 📑 학습 결과 기록
 |Model|Accuracy|F1-Score(macro)|Precision(macro)|Recall(macro)|
