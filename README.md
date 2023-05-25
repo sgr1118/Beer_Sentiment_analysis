@@ -127,7 +127,7 @@ for sentence in sentences:
 #### [6. Data_Labeling_Alpaca](https://www.youtube.com/watch?v=JzBR8oieyy8&t=117s)
 #### [7. The Most Common Evaluation Metrics In NLP](https://medium.com/towards-data-science/the-most-common-evaluation-metrics-in-nlp-ced6a763ac8b)
 #### [8. Pytorch Multi GPU](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
-#### [9. [Data Augmentation 기법](https://maelfabien.github.io/machinelearning/NLP_8/#when-should-we-use-data-augmentation)
+#### [9. Data Augmentation 기법](https://maelfabien.github.io/machinelearning/NLP_8/#when-should-we-use-data-augmentation)
 ---
 ## 📑 프로젝트 결과물 모음
 |No|내용|깃허브|관리 팀원|
