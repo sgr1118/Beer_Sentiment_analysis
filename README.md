@@ -1,7 +1,8 @@
 # Project : 맥주 리뷰 감정 분석
 
-## 프로젝트 후원 : (주)모두의 연구소
-- 해당 프로젝트는 (주)모두의연구소로부터 지원을 받았음을 알려드립니다.
+## 프로젝트 후원 : (주)모두의연구소, K-디지털 플랫폼
+---
+본 프로젝트는 모두의연구소와 K-디지털 플랫폼으로부터 지원받았습니다.
 
 <img src="https://img.shields.io/badge/Python-3.8-blue"><img src="https://img.shields.io/badge/Pytorc%20Lhlightning-1.5.10-blue"><img src="https://img.shields.io/badge/Transformers-4.16.2-blue"><img src="https://img.shields.io/badge/-Colab-yellow)">
 
