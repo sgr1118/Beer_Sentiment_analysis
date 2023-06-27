@@ -36,8 +36,13 @@ def analyze_sentiment(sentence):
     return result
 
 sentences = ['I took a sip and immediately discarded it. How could a beer have such a strong cinnamon flavor?',
+             "You can't perceive any hop aroma in this beer, and it feels like drinking water.",
              'The taste of this beer embodies the style description quite well.',
-             "This beer successfully captures the bitter aroma of coffee, and when you're about to finish a glass, there's a slight dominant sweetness that lingers in your mouth."]
+             "This beer successfully captures the bitter aroma of coffee, and when you're about to finish a glass, there's a slight dominant                     sweetness that lingers in your mouth.",
+             "The taste of this Barrel-Aged Imperial Stout is not overpowering, and the subtle sweetness reminiscent of banana can be detected",
+             "This beer goes down very smoothly, like water. It captures the essence of a Helles beer very well.",
+             "Although the hop aroma is not strong, the rich taste of malt is well pronounced.",
+             "This beer goes down like water."]
 for sentence in sentences:
     predicted_sentiment = analyze_sentiment(sentence)
     print("문장:", sentence)
@@ -45,10 +50,20 @@ for sentence in sentences:
     
 문장: I took a sip and immediately discarded it. How could a beer have such a strong cinnamon flavor?
 감정: Negative
+문장: You can't perceive any hop aroma in this beer, and it feels like drinking water.
+감정: Negative
 문장: The taste of this beer embodies the style description quite well.
 감정: Positive
 문장: This beer successfully captures the bitter aroma of coffee, and when you're about to finish a glass, there's a slight dominant sweetness that lingers in your mouth.
 감정: Positive
+문장: The taste of this Barrel-Aged Imperial Stout is not overpowering, and the subtle sweetness reminiscent of banana can be detected
+감정: Positive
+문장: This beer goes down very smoothly, like water. It captures the essence of a Helles beer very well.
+감정: Positive
+문장: Although the hop aroma is not strong, the rich taste of malt is well pronounced.
+감정: Positive
+문장: This beer goes down like water.
+감정: Negative
 ```
 
 ## 💡프로젝트 소개
