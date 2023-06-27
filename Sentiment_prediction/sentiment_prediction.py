@@ -2,7 +2,7 @@ import torch
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch.nn.functional as F
 
-model_path = '/home/beerlab/outputs_3/simplet5-epoch-2-train-loss-0.0447-val-loss-0.0571'
+model_path = '/content/drive/MyDrive/Sentiment Analysis/simplet5-epoch-2-train-loss-0.0447-val-loss-0.0571'
 model = T5ForConditionalGeneration.from_pretrained(model_path)
 tokenizer = T5Tokenizer.from_pretrained(model_path)
 
@@ -29,7 +29,10 @@ sentences = ['I took a sip and immediately discarded it. How could a beer have s
              "You can't perceive any hop aroma in this beer, and it feels like drinking water.",
              'The taste of this beer embodies the style description quite well.',
              "This beer successfully captures the bitter aroma of coffee, and when you're about to finish a glass, there's a slight dominant sweetness that lingers in your mouth.",
-             "The taste of this Barrel-Aged Imperial Stout is not overpowering, and the subtle sweetness reminiscent of banana can be detected"]
+             "The taste of this Barrel-Aged Imperial Stout is not overpowering, and the subtle sweetness reminiscent of banana can be detected",
+             "This beer goes down very smoothly, like water. It captures the essence of a Helles beer very well.",
+             "Although the hop aroma is not strong, the rich taste of malt is well pronounced.",
+             "This beer goes down like water."]
 for sentence in sentences:
     predicted_sentiment = analyze_sentiment(sentence)
     print("문장:", sentence)
